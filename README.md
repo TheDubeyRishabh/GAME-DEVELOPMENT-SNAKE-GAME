@@ -124,4 +124,6 @@ This SFML-based Snake Game provides an engaging and fun experience while demonst
 
 
 #OUTPUT 
+
+
 ![Image](https://github.com/user-attachments/assets/483657ee-7622-4620-a356-89caa317e642)
