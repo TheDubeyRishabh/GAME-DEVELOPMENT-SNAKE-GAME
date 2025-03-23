@@ -121,3 +121,6 @@ Mobile Compatibility: Adapt controls for touchscreens.
 
 Conclusion
 This SFML-based Snake Game provides an engaging and fun experience while demonstrating key game development concepts. It features smooth movement, collision handling, sound effects, and dynamic difficulty adjustment.
+
+
+#OUTPUT 
